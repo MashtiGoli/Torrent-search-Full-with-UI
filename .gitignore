@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+dist/
+__pycache__/
+*.spec
+*.pyc
+*.pyo
+
+# Compiled executables
+*.exe
+
+# Output files
+*.torrent
+*.magnet
+torrent_search_results.txt
+limetorrents_output.txt
